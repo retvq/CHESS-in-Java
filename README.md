@@ -1,37 +1,40 @@
 
+
+---
+
 # Chess in Java
 
 This is a simple console-based implementation of the classic game of chess written in Java.
 
-•Features
+## Features
 
-- Console Interface: Play chess directly from the console.
-- Two-player Mode: Play against another human player.
-- Basic Rules: Implements the basic rules of chess, including movement, captures, and checkmate detection.
-- Command Line Interface: Easy-to-use command line interface for inputting moves.
+- **Console Interface**: Play chess directly from the console.
+- **Two-player Mode**: Play against another human player.
+- **Basic Rules**: Implements the basic rules of chess, including movement, captures, and checkmate detection.
+- **Command Line Interface**: Easy-to-use command line interface for inputting moves.
 
-•Getting Started
+## Getting Started
 
-1. Clone the Repository:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/retvq/CHESS-in-Java.git
+   ```
 
-   ' git clone https://github.com/retvq/CHESS-in-Java.git '
-
-2. Compile the Code:
-
+2. **Compile the Code**:
+   ```bash
    javac Chess.java
+   ```
 
-3. Run the Game:
-
+3. **Run the Game**:
+   ```bash
    java Chess
+   ```
 
-4. Follow the On-screen Instructions:
-
-   - Use algebraic notation to input our moves.
-     For example, to move a pawn from e2 to e4, input `e2 e4`.
-
+4. **Follow the On-screen Instructions**:
+   - Use algebraic notation to input your moves. For example, to move a pawn from e2 to e4, input `e2 e4`.
    - Follow the prompts to play the game.
 
-•Example Gameplay
+## Example Gameplay
 
 ```
 Welcome to Chess in Java!
@@ -53,13 +56,12 @@ Black's move: e7 e5
 ...
 ```
 
-•Contributing
+## Contributing
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, feel free to open an issue or create a pull request.
 
-•License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
- 
