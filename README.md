@@ -14,7 +14,7 @@ This is a simple console-based implementation of the classic game of chess writt
 
 1. Clone the Repository:
 
-   git clone https://github.com/retvq/CHESS-in-Java.git
+   ' git clone https://github.com/retvq/CHESS-in-Java.git '
 
 2. Compile the Code:
 
