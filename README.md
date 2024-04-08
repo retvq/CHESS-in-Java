@@ -60,8 +60,5 @@ Black's move: e7 e5
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
